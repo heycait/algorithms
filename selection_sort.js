@@ -1,8 +1,4 @@
-var swap = function(array, firstIndex, secondIndex){
-  var first = array[firstIndex];
-  array[firstIndex] = array[secondIndex];
-  array[secondIndex] = first;
-}
+var swap = require('./swap_function')
 
 var selection_sort = function(array){
   var i = 0;
