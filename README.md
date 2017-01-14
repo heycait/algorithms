@@ -1,7 +1,6 @@
 # Algorithms
 
-Implementation of various algorithms
+Implementation of algorithms from various sources
 
-* Selection sort
-* Bubble sort
-* Insertion sort
+* [reddit](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/)
+* [visualgo](https://visualgo.net)
